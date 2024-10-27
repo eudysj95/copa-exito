@@ -1,0 +1,114 @@
+[
+    {
+        "producto": "Canilla Grande",
+        "precio": "$0.32"
+    },
+    {
+        "producto": "Combos",
+        "precio": "$1.05"
+    },
+    {
+        "producto": "Pan de Queso",
+        "precio": "$0.45"
+    },
+    {
+        "producto": "Roliqueso",
+        "precio": "$0.54"
+    },
+    {
+        "producto": "Piñita",
+        "precio": "$1.07"
+    },
+    {
+        "producto": "Pan de Arequipe",
+        "precio": "$1.50"
+    },
+    {
+        "producto": "Pan de Guayaba",
+        "precio": "$1.50"
+    },
+    {
+        "producto": "Panes rellenos pequeños",
+        "precio": "$0.38"
+    },
+    {
+        "producto": "Pan de piña",
+        "precio": "$0.78"
+    },
+    {
+        "producto": "Pan de Avena",
+        "precio": "$1.00"
+    },
+    {
+        "producto": "Galleta de huevo",
+        "precio": "$0.28"
+    },
+    {
+        "producto": "Pasteles",
+        "precio": "$0.52"
+    },
+    {
+        "producto": "Torta de Pan",
+        "precio": "$0.50"
+    },
+    {
+        "producto": "Palmeritas",
+        "precio": "$0.33"
+    },
+    {
+        "producto": "Tostadas",
+        "precio": "$0.21"
+    },
+    {
+        "producto": "Pan de rebanada",
+        "precio": "$1.85"
+    },
+    {
+        "producto": "Pan de Leche",
+        "precio": "$0.86"
+    },
+    {
+        "producto": "Pan Francés",
+        "precio": "$1.07"
+    },
+    {
+        "producto": "Pasteles",
+        "precio": "$0.50"
+    },
+    {
+        "producto": "Pan de Sandwich",
+        "precio": "$1.85"
+    },
+    {
+        "producto": "Cachitos",
+        "precio": "$0.75"
+    },
+    {
+        "producto": "Paledonias",
+        "precio": "$0.27"
+    },
+    {
+        "producto": "Paledonias por paquete",
+        "precio": "$1.50"
+    },
+    {
+        "producto": "Pan de hamburguesa",
+        "precio": "$1.25"
+    },
+    {
+        "producto": "Pan de perro grande",
+        "precio": "$1.25"
+    },
+    {
+        "producto": "Pan de perro pequeño",
+        "precio": "$1.55"
+    },
+    {
+        "producto": "Donas",
+        "precio": "$0.50"
+    },
+    {
+        "producto": "",
+        "precio": ""
+    }
+]
