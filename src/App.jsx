@@ -7,9 +7,9 @@ function App() {
 
 
   return (
-    <>
+    <div className=''>
       <MyRoutes/>
-    </>
+    </div>
   )
 }
 

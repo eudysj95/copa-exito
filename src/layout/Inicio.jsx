@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 
 export const Inicio = () => {
   return (
-    <div className="w-full text-center">
+    <div className="w-full h-full text-center">
       <h1 className="font-bold text-2xl mb-8 text-white">Distribuidora Copa Éxito</h1>
 
       <div className="flex flex-col">

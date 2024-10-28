@@ -1,6 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from "react";
 import data from "../assets/dataViveres.json";
+import { NavLink } from "react-router-dom";
 
 export const PrecioViveres = () => {
   const [listado, setListado] = useState([]);
@@ -42,19 +43,23 @@ export const PrecioViveres = () => {
 
   return (
     <div className="w-full h-full p-6 text-white">
-      <div className="flex flex-col items-center">
-        <h1 className="text-2xl font-bold mb-4">
-          Listado de precios
-        </h1>
+      <div className="w-full flex justify-around">
+        <NavLink to="/inicio">
+          Volver
+        </NavLink>
+        <div className="flex flex-col items-center">
+          <h1 className="text-2xl font-bold mb-4">Listado de precios</h1>
 
-        <input
-          onChange={buscar}
-          className="text-black ring-2 w-40 p-2 rounded-sm mb-4"
-          type="text"
-          name="busqueda"
-          placeholder="Busca un producto"
-        />
-        {/* <input className="border-solid border-2 mb-4 p-2 w-28" type="submit" value="Buscar"/> */}
+          <input
+            onChange={buscar}
+            className="text-black ring-2 w-40 p-2 rounded-sm mb-4"
+            type="text"
+            name="busqueda"
+            placeholder="Busca un producto"
+          />
+          {/* <input className="border-solid border-2 mb-4 p-2 w-28" type="submit" value="Buscar"/> */}
+        </div>
+        <div></div>
       </div>
 
       <div className="flex flex-wrap mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
