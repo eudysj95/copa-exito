@@ -10,7 +10,7 @@ export const Inicio = () => {
       <div className="flex flex-col">
         <NavLink to="/viveres" className="text-lg font-semibold rounded-lg text-white w-40 bg-teal-700 h-16 mb-4 my-0 mx-auto p-2">Precio de Víveres</NavLink>
         <NavLink to="/panaderia" className="text-lg font-semibold rounded-lg text-white w-40 bg-teal-700 h-16 mb-4 my-0 mx-auto p-2">Precio de panadería</NavLink>
-        <NavLink to="/mayor" className="text-lg font-semibold rounded-lg text-white w-40 bg-teal-700 h-16 mb-4 my-0 mx-auto p-2">Precios al mayor</NavLink>
+        {/*<NavLink to="/mayor" className="text-lg font-semibold rounded-lg text-white w-40 bg-teal-700 h-16 mb-4 my-0 mx-auto p-2">Precios al mayor</NavLink>*/}
       </div>
     </div>
   );
