@@ -1,0 +1,110 @@
+[
+    {
+        "producto": "Canilla Grande",
+        "precio": 0.29
+    },
+    {
+        "producto": "Combos",
+        "precio": 0.95
+    },
+    {
+        "producto": "Pan de Queso",
+        "precio": 0.41
+    },
+    {
+        "producto": "Roliqueso",
+        "precio": 0.49
+    },
+    {
+        "producto": "Piñita",
+        "precio": 0.96
+    },
+    {
+        "producto": "Pan de Arequipe",
+        "precio": 1.35
+    },
+    {
+        "producto": "Pan de Guayaba",
+        "precio": 1.35
+    },
+    {
+        "producto": "Panes rellenos pequeños",
+        "precio": 0.34
+    },
+    {
+        "producto": "Pan de piña",
+        "precio": 0.7
+    },
+    {
+        "producto": "Pan de Avena",
+        "precio": 1.2
+    },
+    {
+        "producto": "Galleta de huevo",
+        "precio": 0.25
+    },
+    {
+        "producto": "Pasteles",
+        "precio": 0.47
+    },
+    {
+        "producto": "Torta de Pan",
+        "precio": 0.45
+    },
+    {
+        "producto": "Palmeritas",
+        "precio": 0.3
+    },
+    {
+        "producto": "Tostadas",
+        "precio": 0.2
+    },
+    {
+        "producto": "Pan de rebanada",
+        "precio": 1.65
+    },
+    {
+        "producto": "Pan de Leche",
+        "precio": 0.8
+    },
+    {
+        "producto": "Pan Francés",
+        "precio": 0.96
+    },
+    {
+        "producto": "Pasteles",
+        "precio": 0.45
+    },
+    {
+        "producto": "Pan de Sandwich",
+        "precio": 1.65
+    },
+    {
+        "producto": "Cachitos",
+        "precio": 1.2
+    },
+    {
+        "producto": "Paledonias",
+        "precio": 0.2
+    },
+    {
+        "producto": "Paledonias por paquete",
+        "precio": 1.35
+    },
+    {
+        "producto": "Pan de hamburguesa",
+        "precio": 1.23
+    },
+    {
+        "producto": "Pan de perro grande",
+        "precio": 1.23
+    },
+    {
+        "producto": "Pan de perro pequeño",
+        "precio": 1.00
+    },
+    {
+        "producto": "Donas",
+        "precio": 0.45
+    }
+]
