@@ -1,7 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from "react";
 import data from "../assets/dataMayor.json";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
+import back from "../assets/icons/circle-back.svg";
 
 export const PreciosMayor = () => {
   const [listado, setListado] = useState([]);
@@ -43,9 +44,7 @@ export const PreciosMayor = () => {
     <div className="flex flex-col items-center text-white">
       <div className="w-full flex justify-around">
         {/* <div icon="fa-solid fa-house" ></div> */}
-        <NavLink to="/inicio">
-          Volver
-        </NavLink>
+        <Link to="/inicio"><img src={back} alt="back" className="w-12 bg-white rounded-[50%] mt-4"/></Link>
         <div className="flex flex-col items-center">
           <h1 className="text-2xl font-bold mb-4">Precios al Mayor</h1>
 

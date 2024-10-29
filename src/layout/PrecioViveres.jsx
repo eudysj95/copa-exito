@@ -1,7 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from "react";
 import data from "../assets/dataViveres.json";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
+import back from "../assets/icons/circle-back.svg";
 
 export const PrecioViveres = () => {
   const [listado, setListado] = useState([]);
@@ -42,11 +43,9 @@ export const PrecioViveres = () => {
   };
 
   return (
-    <div className="w-full h-full p-6 text-white">
+    <div className="w-full p-6 text-white">
       <div className="w-full flex justify-around">
-        <NavLink to="/inicio">
-          Volver
-        </NavLink>
+      <Link to="/inicio"><img src={back} alt="back" className="w-12 bg-white rounded-[50%] mt-4"/></Link>
         <div className="flex flex-col items-center">
           <h1 className="text-2xl font-bold mb-4">Listado de precios</h1>
 
@@ -62,7 +61,7 @@ export const PrecioViveres = () => {
         <div></div>
       </div>
 
-      <div className="flex flex-wrap mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
+      <div className="flex flex-wrap h-screen mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
         {listado.map((item) => {
           return (
             <article
