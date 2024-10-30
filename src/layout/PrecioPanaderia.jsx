@@ -8,7 +8,7 @@ export const PrecioPanaderia = () => {
   const [listado, setListado] = useState([]);
   const [busquedaState, setBusquedaState] = useState("");
 
-  const tasa = 42;
+  const tasa = 43;
 
   useEffect(() => {
     conseguirListado();

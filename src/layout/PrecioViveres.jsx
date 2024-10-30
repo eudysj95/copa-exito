@@ -13,7 +13,7 @@ export const PrecioViveres = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  let tasa = 42;
+  let tasa = 43;
   let porcentaje = 1.2;
 
   const conseguirLista = () => {

@@ -1,1796 +1,1796 @@
 [
     {
         "producto": "Aceite 210ml",
-        "precio": "5.60",
+        "precio": 5.60,
         "unidades": 10
     },
     {
         "producto": "Aceite Coamo 900MLt",
-        "precio": "2.05",
+        "precio": 2.05,
         "unidades": 1
     },
     {
         "producto": "Aceite Fritolisto 800ml",
-        "precio": "20.43",
+        "precio": 20.43,
         "unidades": 12
     },
     {
         "producto": "Aceite Imperial 450gr",
-        "precio": "7.00",
+        "precio": 7.00,
         "unidades": 6
     },
     {
         "producto": "Aceite Dieta 210ml",
-        "precio": "7.00",
+        "precio": 7.00,
         "unidades": 12
     },
     {
         "producto": "Afeitadora Dorco",
-        "precio": "5.45",
+        "precio": 5.45,
         "unidades": 24
     },
     {
         "producto": "Afeitadora Gillet",
-        "precio": "7.92",
+        "precio": 7.92,
         "unidades": 12
     },
     {
         "producto": "Agua minalba 1.5lts",
-        "precio": "14.46",
+        "precio": 14.46,
         "unidades": 12
     },
     {
         "producto": "Agua minalba 355ml",
-        "precio": "12.14",
+        "precio": 12.14,
         "unidades": 24
     },
     {
         "producto": "Agua minalba 5lts",
-        "precio": "5.94",
+        "precio": 5.94,
         "unidades": 2
     },
     {
         "producto": "Agua minalba 600cc",
-        "precio": "14.79",
+        "precio": 14.79,
         "unidades": 24
     },
     {
         "producto": "Arroz Agua Blanca",
-        "precio": "25.00",
+        "precio": 25.00,
         "unidades": 24
     },
     {
         "producto": "Arroz Primor",
-        "precio": "1.35",
+        "precio": 1.35,
         "unidades": 1
     },
     {
         "producto": "Arroz Mary",
-        "precio": "6.02",
+        "precio": 6.02,
         "unidades": 6
     },
     {
         "producto": "Arveja Verde Partida",
-        "precio": "7.80",
+        "precio": 7.80,
         "unidades": 5
     },
     {
         "producto": "Atun Marina",
-        "precio": "6.90",
+        "precio": 6.90,
         "unidades": 6
     },
     {
         "producto": "Atun Margarita",
-        "precio": "1.36",
+        "precio": 1.36,
         "unidades": 1
     },
     {
         "producto": "Atun California",
-        "precio": "0.84",
+        "precio": 0.84,
         "unidades": 1
     },
     {
         "producto": "Avena Quaker",
-        "precio": "1.59",
+        "precio": 1.59,
         "unidades": 1
     },
     {
         "producto": "Avena Soberana 200gr",
-        "precio": "2.82",
+        "precio": 2.82,
         "unidades": 6
     },
     {
         "producto": "Avena Soberana 400gr",
-        "precio": "6.62",
+        "precio": 6.62,
         "unidades": 8
     },
     {
         "producto": "Azucaradas",
-        "precio": "1.83",
+        "precio": 1.83,
         "unidades": 6
     },
     {
         "producto": "Azucar",
-        "precio": "21.80",
+        "precio": 21.80,
         "unidades": 20
     },
     {
         "producto": "Barrilete",
-        "precio": "3.06",
+        "precio": 3.06,
         "unidades": 40
     },
     {
         "producto": "Boka",
-        "precio": "2.10",
+        "precio": 2.10,
         "unidades": 10
     },
     {
         "producto": "Boli Bulls",
-        "precio": "3.60",
+        "precio": 3.60,
         "unidades": 6
     },
     {
         "producto": "Boli Bulls Grande",
-        "precio": "4.66",
+        "precio": 4.66,
         "unidades": 6
     },
     {
         "producto": "Boligrafo Crisvi",
-        "precio": "2.00",
+        "precio": 2.00,
         "unidades": 12
     },
     {
         "producto": "Boligrafo Paper Mate Kilometrico",
-        "precio": "3.60",
+        "precio": 3.60,
         "unidades": 24
     },
     {
         "producto": "Bolsa de Basura",
-        "precio": "3.50",
+        "precio": 3.50,
         "unidades": 10
     },
     {
         "producto": "Bombillos amarillos",
-        "precio": "2.80",
+        "precio": 2.80,
         "unidades": 10
     },
     {
         "producto": "Bubbaloo",
-        "precio": "3.86",
+        "precio": 3.86,
         "unidades": 70
     },
     {
         "producto": "Cafe Amanecer 100gr",
-        "precio": "8.10",
+        "precio": 8.10,
         "unidades": 10
     },
     {
         "producto": "Cafe la cima 200gr",
-        "precio": "1.46",
+        "precio": 1.46,
         "unidades": 1
     },
     {
         "producto": "Cafe Amanecer 200gr",
-        "precio": "9.10",
+        "precio": 9.10,
         "unidades": 6
     },
     {
         "producto": "Cafe la Cima 100gr",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Cafe Sello Rojo 50gr",
-        "precio": "5.30",
+        "precio": 5.30,
         "unidades": 10
     },
     {
         "producto": "Caramelo Bianchi",
-        "precio": "2.00",
+        "precio": 2.00,
         "unidades": 100
     },
     {
         "producto": "Caramelos de menta",
-        "precio": "1.60",
+        "precio": 1.60,
         "unidades": 100
     },
     {
         "producto": "Caramelos Bites de leche",
-        "precio": "3.09",
+        "precio": 3.09,
         "unidades": 100
     },
     {
         "producto": "Carpeta marron carta/oficio",
-        "precio": "0.35",
+        "precio": 0.35,
         "unidades": 1
     },
     {
         "producto": "Huevos (Carton)",
-        "precio": "42.00",
+        "precio": 42.00,
         "unidades": 12
     },
     {
         "producto": "Cheese Tris Grande",
-        "precio": "1.40",
+        "precio": 1.40,
         "unidades": 1
     },
     {
         "producto": "Cheese Tris pequeño",
-        "precio": "8.10",
+        "precio": 8.10,
         "unidades": 12
     },
     {
         "producto": "Chicle Buzzy Tattoo",
-        "precio": "2.50",
+        "precio": 2.50,
         "unidades": 100
     },
     {
         "producto": "Chicle Splot",
-        "precio": "1.85",
+        "precio": 1.85,
         "unidades": 60
     },
     {
         "producto": "Chicles Guds Ball Frutas",
-        "precio": "2.13",
+        "precio": 2.13,
         "unidades": 18
     },
     {
         "producto": "Caramelos Freegels",
-        "precio": "2.40",
+        "precio": 2.40,
         "unidades": 12
     },
     {
         "producto": "Chocolate Chic Choc",
-        "precio": "4.23",
+        "precio": 4.23,
         "unidades": 24
     },
     {
         "producto": "ChocoDisk",
-        "precio": "3.13",
+        "precio": 3.13,
         "unidades": 18
     },
     {
         "producto": "Chupeta BigBom",
-        "precio": "3.60",
+        "precio": 3.60,
         "unidades": 48
     },
     {
         "producto": "Chupetas Bon Bon Bum",
-        "precio": "1.60",
+        "precio": 1.60,
         "unidades": 24
     },
     {
         "producto": "Chupetas Fanpop",
-        "precio": "1.80",
+        "precio": 1.80,
         "unidades": 50
     },
     {
         "producto": "Chupetas Pop Mania",
-        "precio": "4.41",
+        "precio": 4.41,
         "unidades": 48
     },
     {
         "producto": "Coca Cola 1.5lts",
-        "precio": "6.35",
+        "precio": 6.35,
         "unidades": 6
     },
     {
         "producto": "Cocosete",
-        "precio": "9.00",
+        "precio": 9.00,
         "unidades": 24
     },
     {
         "producto": "Compota natulac pequeña",
-        "precio": "5.00",
+        "precio": 5.00,
         "unidades": 6
     },
     {
         "producto": "Crema dental Alident",
-        "precio": "7.75",
+        "precio": 7.75,
         "unidades": 12
     },
     {
         "producto": "Crema dental Colgate Triple Accion",
-        "precio": "0.90",
+        "precio": 0.90,
         "unidades": 1
     },
     {
         "producto": "Cubitos Maggy",
-        "precio": "7.02",
+        "precio": 7.02,
         "unidades": 50
     },
     {
         "producto": "Dandy",
-        "precio": "3.65",
+        "precio": 3.65,
         "unidades": 18
     },
     {
         "producto": "Desodorante Balance",
-        "precio": "7.85",
+        "precio": 7.85,
         "unidades": 32
     },
     {
         "producto": "Desodorante de tubo lady speed stick",
-        "precio": "10.5",
+        "precio": 10.5,
         "unidades": 6
     },
     {
         "producto": "Detergente Oxy y 3B+ 400gr",
-        "precio": "2.90",
+        "precio": 2.90,
         "unidades": 5
     },
     {
         "producto": "Detergente Alive 1kg",
-        "precio": "9.80",
+        "precio": 9.80,
         "unidades": 6
     },
     {
         "producto": "Detergente Alive 500gr",
-        "precio": "5.40",
+        "precio": 5.40,
         "unidades": 6
     },
     {
         "producto": "Detergente KH 1Kg",
-        "precio": "8.60",
+        "precio": 8.60,
         "unidades": 6
     },
     {
         "producto": "Detergente Kh 500gr",
-        "precio": "4.80",
+        "precio": 4.80,
         "unidades": 6
     },
     {
         "producto": "Diablito 54gr",
-        "precio": "1.10",
+        "precio": 1.10,
         "unidades": 1
     },
     {
         "producto": "Dorito",
-        "precio": "8.50",
+        "precio": 8.50,
         "unidades": 12
     },
     {
         "producto": "Ducream Avellana",
-        "precio": "2.03",
+        "precio": 2.03,
         "unidades": 12
     },
     {
         "producto": "Esponja para loza",
-        "precio": "0.80",
+        "precio": 0.80,
         "unidades": 1
     },
     {
         "producto": "Esponja Doble uso",
-        "precio": "0.58",
+        "precio": 0.58,
         "unidades": 1
     },
     {
         "producto": "Esponja Multiuso",
-        "precio": "2.03",
+        "precio": 2.03,
         "unidades": 8
     },
     {
         "producto": "Galleta Club Social",
-        "precio": "1.90",
+        "precio": 1.90,
         "unidades": 9
     },
     {
         "producto": "Galleta Hony Bran",
-        "precio": "2.22",
+        "precio": 2.22,
         "unidades": 9
     },
     {
         "producto": "Galleta Kraker Bran",
-        "precio": "4.22",
+        "precio": 4.22,
         "unidades": 18
     },
     {
         "producto": "Galleta Nucita",
-        "precio": "1.95",
+        "precio": 1.95,
         "unidades": 12
     },
     {
         "producto": "Galleta Oreo",
-        "precio": "3.7",
+        "precio": 3.7,
         "unidades": 12
     },
     {
         "producto": "Galleta Rellena",
-        "precio": "4.3",
+        "precio": 4.3,
         "unidades": 12
     },
     {
         "producto": "Galleta Saltitacos",
-        "precio": "2.34",
+        "precio": 2.34,
         "unidades": 7
     },
     {
         "producto": "Galletas Maria",
-        "precio": "1.20",
+        "precio": 1.20,
         "unidades": 9
     },
     {
         "producto": "Galletas Oops",
-        "precio": "4.34",
+        "precio": 4.34,
         "unidades": 24
     },
     {
         "producto": "Galletas Yupi",
-        "precio": "2.70",
+        "precio": 2.70,
         "unidades": 6
     },
     {
         "producto": "Gatorade",
-        "precio": "16.00",
+        "precio": 16.00,
         "unidades": 12
     },
     {
         "producto": "Gomitas Play paquete",
-        "precio": "2.74",
+        "precio": 2.74,
         "unidades": 6
     },
     {
         "producto": "Cubitos Magelin",
-        "precio": "2.80",
+        "precio": 2.80,
         "unidades": 60
     },
     {
         "producto": "Harina de trigo",
-        "precio": "55.00",
+        "precio": 55.00,
         "unidades": 50
     },
     {
         "producto": "Harina Pan",
-        "precio": "19.25",
+        "precio": 19.25,
         "unidades": 20
     },
     {
         "producto": "Hojas de Examen",
-        "precio": "2.80",
+        "precio": 2.80,
         "unidades": 60
     },
     {
         "producto": "Hojillas Dorco (Cajita)",
-        "precio": "4.00",
+        "precio": 4.00,
         "unidades": 12
     },
     {
         "producto": "Hojillas Dorco (Unidad)",
-        "precio": "4.00",
+        "precio": 4.00,
         "unidades": 60
     },
     {
         "producto": "Huevos (Unidad)",
-        "precio": "57.00",
+        "precio": 57.00,
         "unidades": 360
     },
     {
         "producto": "Jabon azul las llaves 200gr",
-        "precio": "4.70",
+        "precio": 4.70,
         "unidades": 6
     },
     {
         "producto": "Jabon de baño harmony 75gr",
-        "precio": "3.50",
+        "precio": 3.50,
         "unidades": 10
     },
     {
         "producto": "Jabon de baño palmolive 120gr",
-        "precio": "6.15",
+        "precio": 6.15,
         "unidades": 6
     },
     {
         "producto": "Jabon de baño protex 120gr",
-        "precio": "7.10",
+        "precio": 7.10,
         "unidades": 10
     },
     {
         "producto": "Jacks Tortillas",
-        "precio": "10.10",
+        "precio": 10.10,
         "unidades": 12
     },
     {
         "producto": "Jamon de pierna Alibal especial",
-        "precio": "42.00",
+        "precio": 42.00,
         "unidades": 6
     },
     {
         "producto": "Jugo Justy 1Lt",
-        "precio": "8.80",
+        "precio": 8.80,
         "unidades": 12
     },
     {
         "producto": "Jugo Natulac 500ml",
-        "precio": "15.65",
+        "precio": 15.65,
         "unidades": 12
     },
     {
         "producto": "Jugo Natulac 1Lt",
-        "precio": "18.00",
+        "precio": 18.00,
         "unidades": 12
     },
     {
         "producto": "Jugo Natulac 330ml",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Jugo Yukery 1.5Lt",
-        "precio": "2.80",
+        "precio": 2.80,
         "unidades": 1
     },
     {
         "producto": "Lapiz Mongol",
-        "precio": "1.30",
+        "precio": 1.30,
         "unidades": 12
     },
     {
         "producto": "Lavaplatos Axion 253gr",
-        "precio": "1.85",
+        "precio": 1.85,
         "unidades": 1
     },
     {
         "producto": "Leche Campesina",
-        "precio": "3.85",
+        "precio": 3.85,
         "unidades": 1
     },
     {
         "producto": "Leche descremada",
-        "precio": "16.70",
+        "precio": 16.70,
         "unidades": 12
     },
     {
         "producto": "Leche Dobom 120gr",
-        "precio": "6.60",
+        "precio": 6.60,
         "unidades": 8
     },
     {
         "producto": "Leche Upaca 125gr",
-        "precio": "1.10",
+        "precio": 1.10,
         "unidades": 1
     },
     {
         "producto": "Leche Entera San Simon 1Lt",
-        "precio": "17.60",
+        "precio": 17.60,
         "unidades": 12
     },
     {
         "producto": "Leche Entera Natulac 1Lt",
-        "precio": "18.10",
+        "precio": 18.10,
         "unidades": 12
     },
     {
         "producto": "Leche Purelac 200gr",
-        "precio": "7.84",
+        "precio": 7.84,
         "unidades": 6
     },
     {
         "producto": "Levadura",
-        "precio": "71.00",
+        "precio": 71.00,
         "unidades": 10
     },
     {
         "producto": "Libretas una linea 100 hojas",
-        "precio": "5.40",
+        "precio": 5.40,
         "unidades": 6
     },
     {
         "producto": "Cuaderno de linea 40 hojas",
-        "precio": "0.65",
+        "precio": 0.65,
         "unidades": 1
     },
     {
         "producto": "Maiz Dulce",
-        "precio": "7.50",
+        "precio": 7.50,
         "unidades": 6
     },
     {
         "producto": "Malta 1.5lts",
-        "precio": "8.50",
+        "precio": 8.50,
         "unidades": 6
     },
     {
         "producto": "Malta de botella",
-        "precio": "11.18",
+        "precio": 11.18,
         "unidades": 36
     },
     {
         "producto": "Malta de Lata 355ml",
-        "precio": "15.12",
+        "precio": 15.12,
         "unidades": 24
     },
     {
         "producto": "Malta desechable NR",
-        "precio": "6.33",
+        "precio": 6.33,
         "unidades": 12
     },
     {
         "producto": "Mantequilla Max Pan Delicia",
-        "precio": "25.00",
+        "precio": 25.00,
         "unidades": 15
     },
     {
         "producto": "Margarina Mavesa Mediana",
-        "precio": "2.13",
+        "precio": 2.13,
         "unidades": 1
     },
     {
         "producto": "Margarina Mavesa Pequeña",
-        "precio": "1.15",
+        "precio": 1.15,
         "unidades": 1
     },
     {
         "producto": "Margarina Nelly mediana 500gr",
-        "precio": "1.91",
+        "precio": 1.91,
         "unidades": 1
     },
     {
         "producto": "Margarina Nelly Pequeña",
-        "precio": "1.01",
+        "precio": 1.01,
         "unidades": 1
     },
     {
         "producto": "Mayonesa Grande",
-        "precio": "6.37",
+        "precio": 6.37,
         "unidades": 1
     },
     {
         "producto": "Mayonesa Mediana",
-        "precio": "3.18",
+        "precio": 3.18,
         "unidades": 1
     },
     {
         "producto": "Mayonesa Pequeña",
-        "precio": "1.40",
+        "precio": 1.40,
         "unidades": 1
     },
     {
         "producto": "Millows",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 50
     },
     {
         "producto": "Mix natural y bbq y papas rulas",
-        "precio": "3.41",
+        "precio": 3.41,
         "unidades": 12
     },
     {
         "producto": "Mortadela Alibal",
-        "precio": "2.64",
+        "precio": 2.64,
         "unidades": 1
     },
     {
         "producto": "Mortadela Belilla 900gr",
-        "precio": "2.60",
+        "precio": 2.60,
         "unidades": 1
     },
     {
         "producto": "Natulac Escolar",
-        "precio": "1.70",
+        "precio": 1.70,
         "unidades": 3
     },
     {
         "producto": "Nucita",
-        "precio": "1.96",
+        "precio": 1.96,
         "unidades": 12
     },
     {
         "producto": "Nutribela",
-        "precio": "5.15",
+        "precio": 5.15,
         "unidades": 12
     },
     {
         "producto": "Panela",
-        "precio": "10.30",
+        "precio": 10.30,
         "unidades": 24
     },
     {
         "producto": "Panelada",
-        "precio": "12.70",
+        "precio": 12.70,
         "unidades": 15
     },
     {
         "producto": "Pañales",
-        "precio": "3.60",
+        "precio": 3.60,
         "unidades": 16
     },
     {
         "producto": "Papas Campesinas Pollo",
-        "precio": "5.67",
+        "precio": 5.67,
         "unidades": 10
     },
     {
         "producto": "Pastillas Bongys Chococandys",
-        "precio": "1.80",
+        "precio": 1.80,
         "unidades": 24
     },
     {
         "producto": "Super Popy 60gr",
-        "precio": "4.00",
+        "precio": 4.00,
         "unidades": 6
     },
     {
         "producto": "Parrillitas BBQ",
-        "precio": "3.23",
+        "precio": 3.23,
         "unidades": 12
     },
     {
         "producto": "Pasta corta Primor 1kg",
-        "precio": "1.62",
+        "precio": 1.62,
         "unidades": 1
     },
     {
         "producto": "Pasta larga Primor 500gr",
-        "precio": "0.91",
+        "precio": 0.91,
         "unidades": 1
     },
     {
         "producto": "Pasta larga Primor 1Kg",
-        "precio": "1.38",
+        "precio": 1.38,
         "unidades": 1
     },
     {
         "producto": "Pasta corta Banetti 500gr",
-        "precio": "3.90",
+        "precio": 3.90,
         "unidades": 6
     },
     {
         "producto": "Pasta larga Banneti 500gr",
-        "precio": "3.12",
+        "precio": 3.12,
         "unidades": 6
     },
     {
         "producto": "Pega Loca",
-        "precio": "0.22",
+        "precio": 0.22,
         "unidades": 1
     },
     {
         "producto": "Pepito Grande",
-        "precio": "5.70",
+        "precio": 5.70,
         "unidades": 6
     },
     {
         "producto": "Pepito Pequeño",
-        "precio": "6.90",
+        "precio": 6.90,
         "unidades": 12
     },
     {
         "producto": "Plagatox",
-        "precio": "1.00",
+        "precio": 1.00,
         "unidades": 10
     },
     {
         "producto": "Platanito Natuchip",
-        "precio": "11.95",
+        "precio": 11.95,
         "unidades": 12
     },
     {
         "producto": "Polvo de cucarachas",
-        "precio": "4.50",
+        "precio": 4.50,
         "unidades": 50
     },
     {
         "producto": "Qualimax",
-        "precio": "2.88",
+        "precio": 2.88,
         "unidades": 15
     },
     {
         "producto": "Queso de res",
-        "precio": "3.50",
+        "precio": 3.50,
         "unidades": 1
     },
     {
         "producto": "Queso Mozarella",
-        "precio": "6.00",
+        "precio": 6.00,
         "unidades": 1
     },
     {
         "producto": "Recolector de Orina / Eses",
-        "precio": "0.25",
+        "precio": 0.25,
         "unidades": 1
     },
     {
         "producto": "Refresco Pepsi 1.5lts",
-        "precio": "6.00",
+        "precio": 6.00,
         "unidades": 6
     },
     {
         "producto": "Toallin Rosal",
-        "precio": "2.82",
+        "precio": 2.82,
         "unidades": 2
     },
     {
         "producto": "Refresco Pepsi 1lt",
-        "precio": "4.31",
+        "precio": 4.31,
         "unidades": 6
     },
     {
         "producto": "Refresco de botella",
-        "precio": "8.62",
+        "precio": 8.62,
         "unidades": 24
     },
     {
         "producto": "Refresco de botella Pepsi 1.25lts",
-        "precio": "3.90",
+        "precio": 3.90,
         "unidades": 6
     },
     {
         "producto": "Rollo de papel rosal",
-        "precio": "11.10",
+        "precio": 11.10,
         "unidades": 48
     },
     {
         "producto": "Paq de papel rosal",
-        "precio": "11.10",
+        "precio": 11.10,
         "unidades": 12
     },
     {
         "producto": "Sal",
-        "precio": "5.00",
+        "precio": 5.00,
         "unidades": 25
     },
     {
         "producto": "Salsa de Pizza Kiero 500gr",
-        "precio": "2.10",
+        "precio": 2.10,
         "unidades": 1
     },
     {
         "producto": "Salsa de tomate Grande",
-        "precio": "8.53",
+        "precio": 8.53,
         "unidades": 6
     },
     {
         "producto": "Salsa de tomate Pequeña",
-        "precio": "0.90",
+        "precio": 0.90,
         "unidades": 1
     },
     {
         "producto": "Sardina California",
-        "precio": "0.67",
+        "precio": 0.67,
         "unidades": 1
     },
     {
         "producto": "Sardina Oriente tomate 170gr",
-        "precio": "0.45",
+        "precio": 0.45,
         "unidades": 1
     },
     {
         "producto": "Sazonatodo Maggy",
-        "precio": "8.79",
+        "precio": 8.79,
         "unidades": 15
     },
     {
         "producto": "Servilletas pequeñas",
-        "precio": "4.60",
+        "precio": 4.60,
         "unidades": 6
     },{
         "producto": "Shampoo de sobre Pantene",
-        "precio": "3.92",
+        "precio": 3.92,
         "unidades": 12
     },
     {
         "producto": "Shampoo de pote Pantene",
-        "precio": "13.17",
+        "precio": 13.17,
         "unidades": 3
     },
     {
         "producto": "Shampoo de sobre Alive",
-        "precio": "2.40",
+        "precio": 2.40,
         "unidades": 36
     },
     {
         "producto": "Sopa de pollo Maggy",
-        "precio": "9.75",
+        "precio": 9.75,
         "unidades": 12
     },
     {
         "producto": "Speed Max",
-        "precio": "2.70",
+        "precio": 2.70,
         "unidades": 6
     },
     {
         "producto": "Refresco Sun Cola 2Lts",
-        "precio": "5.50",
+        "precio": 5.50,
         "unidades": 6
     },
     {
         "producto": "Tandy",
-        "precio": "2.84",
+        "precio": 2.84,
         "unidades": 15
     },
     {
         "producto": "Tapa bocas",
-        "precio": "4.20",
+        "precio": 4.20,
         "unidades": 100
     },
     {
         "producto": "Tirro de papel blanco",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Toallas Alive",
-        "precio": "0.88",
+        "precio": 0.88,
         "unidades": 1
     },
     {
         "producto": "Toallas Alive (Unidad)",
-        "precio": "0.88",
+        "precio": 0.88,
         "unidades": 20
     },
     {
         "producto": "Toallas Wanita",
-        "precio": "4.65",
+        "precio": 4.65,
         "unidades": 10
     },
     {
         "producto": "Toallas Alive Nocturnas (paquete)",
-        "precio": "5.60",
+        "precio": 5.60,
         "unidades": 6
     },
     {
         "producto": "Toallas Alive octurnas (unidad)",
-        "precio": "5.60",
+        "precio": 5.60,
         "unidades": 48
     },
     {
         "producto": "Tostones Tom",
-        "precio": "4.33",
+        "precio": 4.33,
         "unidades": 12
     },
     {
         "producto": "Tozimiel",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 12
     },
     {
         "producto": "Trululú",
-        "precio": "4.32",
+        "precio": 4.32,
         "unidades": 100
     },
     {
         "producto": "Vasos #77",
-        "precio": "7.80",
+        "precio": 7.80,
         "unidades": 6
     },
     {
         "producto": "Vasos #77 por unidad",
-        "precio": "7.80",
+        "precio": 7.80,
         "unidades": 300
     },
     {
         "producto": "Vasos #67",
-        "precio": "1.90",
+        "precio": 1.90,
         "unidades": 50
     },
     {
         "producto": "Velas",
-        "precio": "2.15",
+        "precio": 2.15,
         "unidades": 10
     },
     {
         "producto": "Viki Viki",
-        "precio": "5.40",
+        "precio": 5.40,
         "unidades": 12
     },
     {
         "producto": "Yesquero",
-        "precio": "7.00",
+        "precio": 7.00,
         "unidades": 50
     },
     {
         "producto": "Yukipack",
-        "precio": "16.80",
+        "precio": 16.80,
         "unidades": 24
     },
     {
         "producto": "Cepillo de barrer",
-        "precio": "2.32",
+        "precio": 2.32,
         "unidades": 1
     },
     {
         "producto": "Cepillo dental colgate",
-        "precio": "4.04",
+        "precio": 4.04,
         "unidades": 6
     },
     {
         "producto": "Mopa Roja",
-        "precio": "6.67",
+        "precio": 6.67,
         "unidades": 2
     },
     {
         "producto": "Suavitel de sobre",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 6
     },
     {
         "producto": "Fabuloso de sobre",
-        "precio": "3.46",
+        "precio": 3.46,
         "unidades": 12
     },
     {
         "producto": "Vinagre mavesa 500ml",
-        "precio": "0.73",
+        "precio": 0.73,
         "unidades": 1
     },
     {
         "producto": "Vinagre mavesa 1Lt",
-        "precio": "1.34",
+        "precio": 1.34,
         "unidades": 1
     },
     {
         "producto": "Diablito 115gr",
-        "precio": "1.87",
+        "precio": 1.87,
         "unidades": 1
     },
     {
         "producto": "Cerelac pequeño 100gr",
-        "precio": "5.03",
+        "precio": 5.03,
         "unidades": 3
     },
     {
         "producto": "Maiz Cotufas 500gr",
-        "precio": "7.00",
+        "precio": 7.00,
         "unidades": 6
     },
     {
         "producto": "Caraota negra Pantera",
-        "precio": "7.45",
+        "precio": 7.45,
         "unidades": 6
     },
     {
         "producto": "Toddy de pote 200gr",
-        "precio": "2.52",
+        "precio": 2.52,
         "unidades": 1
     },
     {
         "producto": "Crema de arroz Santoni 400gr",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Maizina 90gr",
-        "precio": "1.90",
+        "precio": 1.90,
         "unidades": 3
     },
     {
         "producto": "Gelatina every Night 500gr",
-        "precio": "3.63",
+        "precio": 3.63,
         "unidades": 1
     },
     {
         "producto": "Gelatina every Night 250gr",
-        "precio": "2.49",
+        "precio": 2.49,
         "unidades": 1
     },
     {
         "producto": "Gelatina every Night 100gr",
-        "precio": "3.06",
+        "precio": 3.06,
         "unidades": 3
     },
     {
         "producto": "Desodorante SpeedStick sobre",
-        "precio": "6.50",
+        "precio": 6.50,
         "unidades": 36
     },
     {
         "producto": "Alcohol con atomizador",
-        "precio": "3.78",
+        "precio": 3.78,
         "unidades": 3
     },
     {
         "producto": "Acondicionador Pantene Sobre",
-        "precio": "2.30",
+        "precio": 2.30,
         "unidades": 12
     },
     {
         "producto": "Globos de agua Payaso",
-        "precio": "0.33",
+        "precio": 0.33,
         "unidades": 1
     },
     {
         "producto": "Harina Kaly",
-        "precio": "15.00",
+        "precio": 15.00,
         "unidades": 20
     },
     {
         "producto": "Salchicha Belilla Granel",
-        "precio": "4.70",
+        "precio": 4.70,
         "unidades": 1
     },
     {
         "producto": "Salchicha Polaca grande",
-        "precio": "9.90",
+        "precio": 9.90,
         "unidades": 3
     },
     {
         "producto": "Refresco Glup Cola 2lts",
-        "precio": "5.20",
+        "precio": 5.20,
         "unidades": 6
     },
     {
         "producto": "Refresco Glup Cola 1Lt",
-        "precio": "7.80",
+        "precio": 7.80,
         "unidades": 12
     },
     {
         "producto": "Chupeta Pin Pop Polvo Acido",
-        "precio": "2.70",
+        "precio": 2.70,
         "unidades": 12
     },
     {
         "producto": "Mechas Locas",
-        "precio": "3.50",
+        "precio": 3.50,
         "unidades": 6
     },
     {
         "producto": "Frunas",
-        "precio": "1.80",
+        "precio": 1.80,
         "unidades": 32
     },
     {
         "producto": "Chocolate Jet",
-        "precio": "2.60",
+        "precio": 2.60,
         "unidades": 24
     },
     {
         "producto": "Jugo de manzana de botella 1Lt",
-        "precio": "21.79",
+        "precio": 21.79,
         "unidades": 12
     },
     {
         "producto": "Mayonesa de sobre la constancia",
-        "precio": "4.65",
+        "precio": 4.65,
         "unidades": 12
     },
     {
         "producto": "Chocolate de postre",
-        "precio": "2.76",
+        "precio": 2.76,
         "unidades": 1
     },
     {
         "producto": "Lentejas",
-        "precio": "10.40",
+        "precio": 10.40,
         "unidades": 6
     },
     {
         "producto": "Harina Santoni",
-        "precio": "0.66",
+        "precio": 0.66,
         "unidades": 1
     },
     {
         "producto": "Bombillos Blancos 9W",
-        "precio": "2.85",
+        "precio": 2.85,
         "unidades": 5
     },
     {
         "producto": "Bombillos Blancos 18W",
-        "precio": "5.39",
+        "precio": 5.39,
         "unidades": 5
     },
     {
         "producto": "Colores Norma x12",
-        "precio": "1.40",
+        "precio": 1.40,
         "unidades": 1
     },
     {
         "producto": "Resaltadores",
-        "precio": "2.00",
+        "precio": 2.00,
         "unidades": 6
     },
     {
         "producto": "Paletas de helado x50",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Hojas de maquina tipo carta",
-        "precio": "7.50",
+        "precio": 7.50,
         "unidades": 500
     },
     {
         "producto": "Cartulinas planas de colores",
-        "precio": "0.45",
+        "precio": 0.45,
         "unidades": 1
     },
     {
         "producto": "Cartulinas doble faz",
-        "precio": "0.77",
+        "precio": 0.77,
         "unidades": 1
     },
     {
         "producto": "Papel Bond Blanco",
-        "precio": "2.60",
+        "precio": 2.60,
         "unidades": 12
     },
     {
         "producto": "Kikitos rosca queso",
-        "precio": "1.30",
+        "precio": 1.30,
         "unidades": 12
     },
     {
         "producto": "Jugos Vivo 1Lt",
-        "precio": "15.26",
+        "precio": 15.26,
         "unidades": 12
     },
     {
         "producto": "Jabon Supremo Multiuso",
-        "precio": "5.00",
+        "precio": 5.00,
         "unidades": 8
     },
     {
         "producto": "Cafe Imperial 50gr",
-        "precio": "10.06",
+        "precio": 10.06,
         "unidades": 24
     },
     {
         "producto": "Salsa Bologna capri",
-        "precio": "1.52",
+        "precio": 1.52,
         "unidades": 1
     },
     {
         "producto": "Salsa Napoli capri",
-        "precio": "1.50",
+        "precio": 1.50,
         "unidades": 1
     },
     {
         "producto": "Crema dental Colgate",
-        "precio": "0.80",
+        "precio": 0.80,
         "unidades": 1
     },
     {
         "producto": "Sacapuntas plastico con deposito",
-        "precio": "7.20",
+        "precio": 7.20,
         "unidades": 12
     },
     {
         "producto": "Sacapuntas de metal",
-        "precio": "3.40",
+        "precio": 3.40,
         "unidades": 24
     },
     {
         "producto": "Marcador permanente crisvi",
-        "precio": "7.35",
+        "precio": 7.35,
         "unidades": 12
     },
     {
         "producto": "Pega blanca 60ml",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Pega en barra",
-        "precio": "0.45",
+        "precio": 0.45,
         "unidades": 1
     },
     {
         "producto": "Silicon liquido 30ml",
-        "precio": "3.51",
+        "precio": 3.51,
         "unidades": 6
     },
     {
         "producto": "Silicon liquido 60ml",
-        "precio": "6.24",
+        "precio": 6.24,
         "unidades": 6
     },
     {
         "producto": "Plastilina",
-        "precio": "0.60",
+        "precio": 0.60,
         "unidades": 1
     },
     {
         "producto": "Ligas para el cabello",
-        "precio": "1.55",
+        "precio": 1.55,
         "unidades": 12
     },
     {
         "producto": "Carpeta Manila carta/oficio",
-        "precio": "0.20",
+        "precio": 0.20,
         "unidades": 1
     },
     {
         "producto": "Galletas Sorbetico",
-        "precio": "0.89",
+        "precio": 0.89,
         "unidades": 4
     },
     {
         "producto": "Margarina La Rendidora",
-        "precio": "23.13",
+        "precio": 23.13,
         "unidades": 12
     },
     {
         "producto": "Acetaminofen",
-        "precio": "0.66",
+        "precio": 0.66,
         "unidades": 10
     },
     {
         "producto": "Ibuprofeno",
-        "precio": "0.33",
+        "precio": 0.33,
         "unidades": 10
     },
     {
         "producto": "Diclofenac",
-        "precio": "0.40",
+        "precio": 0.40,
         "unidades": 10
     },
     {
         "producto": "Borrador Nata pequeño",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 24
     },
     {
         "producto": "Chupetas Pin Pop Gigante Mora loca",
-        "precio": "4.10",
+        "precio": 4.10,
         "unidades": 48
     },
     {
         "producto": "Gomitas Play aros pequeñas",
-        "precio": "1.70",
+        "precio": 1.70,
         "unidades": 50
     },
     {
         "producto": "Gomitas Play grandes",
-        "precio": "0.40",
+        "precio": 0.40,
         "unidades": 1
     },
     {
         "producto": "Aceite Mazeite",
-        "precio": "3.57",
+        "precio": 3.57,
         "unidades": 1
     },
     {
         "producto": "Toallas Humedas Oki Manzani",
-        "precio": "0.61",
+        "precio": 0.61,
         "unidades": 1
     },
     {
         "producto": "Chocolate Galak Tubito",
-        "precio": "7.11",
+        "precio": 7.11,
         "unidades": 32
     },
     {
         "producto": "Mayonesa Kraft pequeña",
-        "precio": "9.84",
+        "precio": 9.84,
         "unidades": 6
     },
     {
         "producto": "Chips Ahoy 6S 168gr",
-        "precio": "1.50",
+        "precio": 1.50,
         "unidades": 6
     },
     {
         "producto": "Cetirizina",
-        "precio": "0.32",
+        "precio": 0.32,
         "unidades": 10
     },
     {
         "producto": "Teragrip Forte",
-        "precio": "3.12",
+        "precio": 3.12,
         "unidades": 3
     },
     {
         "producto": "Salsa de tomate Kiero pequeña",
-        "precio": "4.32",
+        "precio": 4.32,
         "unidades": 6
     },
     {
         "producto": "Salsa de Guiso Kiero",
-        "precio": "5.76",
+        "precio": 5.76,
         "unidades": 3
     },
     {
         "producto": "Salsa de Pizza Kiero 200gr",
-        "precio": "12.84",
+        "precio": 12.84,
         "unidades": 12
     },
     {
         "producto": "Escarcha",
-        "precio": "2.00",
+        "precio": 2.00,
         "unidades": 20
     },
     {
         "producto": "Pega Mosca",
-        "precio": "1.00",
+        "precio": 1.00,
         "unidades": 10
     },
     {
         "producto": "Limas de uñas",
-        "precio": "1.10",
+        "precio": 1.10,
         "unidades": 12
     },
     {
         "producto": "Vapurob",
-        "precio": "5.65",
+        "precio": 5.65,
         "unidades": 12
     },
     {
         "producto": "Papas Rulitas",
-        "precio": "2.95",
+        "precio": 2.95,
         "unidades": 24
     },
     {
         "producto": "Curitas",
-        "precio": "1.20",
+        "precio": 1.20,
         "unidades": 100
     },
     {
         "producto": "Papel Aluminio",
-        "precio": "2.25",
+        "precio": 2.25,
         "unidades": 1
     },
     {
         "producto": "Papelillo",
-        "precio": "0.65",
+        "precio": 0.65,
         "unidades": 1
     },
     {
         "producto": "Enjuague Bucal Colgate 250ml",
-        "precio": "3.17",
+        "precio": 3.17,
         "unidades": 1
     },
     {
         "producto": "Flips 120gr",
-        "precio": "1.60",
+        "precio": 1.60,
         "unidades": 1
     },
     {
         "producto": "Samba pequeña",
-        "precio": "14.35",
+        "precio": 14.35,
         "unidades": 35
     },
     {
         "producto": "Galleta Max Coco",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 10
     },
     {
         "producto": "Flips 28gr",
-        "precio": "6.2",
+        "precio": 6.2,
         "unidades": 12
     },
     {
         "producto": "Jeringas esteriles descartables",
-        "precio": "0.22",
+        "precio": 0.22,
         "unidades": 1
     },
     {
         "producto": "Chisquesitos",
-        "precio": "7.30",
+        "precio": 7.30,
         "unidades": 12
     },
     {
         "producto": "Pedrito",
-        "precio": "3.75",
+        "precio": 3.75,
         "unidades": 24
     },
     {
         "producto": "Mortadela Extra Belilla",
-        "precio": "4.27",
+        "precio": 4.27,
         "unidades": 1
     },
     {
         "producto": "Jamon de pierna Belilla estandar",
-        "precio": "7.70",
+        "precio": 7.70,
         "unidades": 1
     },
     {
         "producto": "Barra Bianchi de mani",
-        "precio": "2.50",
+        "precio": 2.50,
         "unidades": 12
     },
     {
         "producto": "Globos grandes",
-        "precio": "3.00",
+        "precio": 3.00,
         "unidades": 38
     },
     {
         "producto": "Pega en barra grande",
-        "precio": "0.65",
+        "precio": 0.65,
         "unidades": 1
     },
     {
         "producto": "Limas para pies",
-        "precio": "0.76",
+        "precio": 0.76,
         "unidades": 1
     },
     {
         "producto": "Jabon en barra puro avena",
-        "precio": "0.49",
+        "precio": 0.49,
         "unidades": 1
     },
     {
         "producto": "Pala plastica",
-        "precio": "1.60",
+        "precio": 1.60,
         "unidades": 1
     },
     {
         "producto": "Pepitas",
-        "precio": "5.40",
+        "precio": 5.40,
         "unidades": 24
     },
     {
         "producto": "Palitos",
-        "precio": "5.80",
+        "precio": 5.80,
         "unidades": 18
     },
     {
         "producto": "Acetona",
-        "precio": "1.24",
+        "precio": 1.24,
         "unidades": 1
     },
     {
         "producto": "Protector diario Mis Princesass",
-        "precio": "0.45",
+        "precio": 0.45,
         "unidades": 1
     },
     {
         "producto": "Caramelos Chao Menta",
-        "precio": "1.87",
+        "precio": 1.87,
         "unidades": 100
     },
     {
         "producto": "Crema de arroz Primor",
-        "precio": "0.62",
+        "precio": 0.62,
         "unidades": 1
     },
     {
         "producto": "Café DellaNona 100gr",
-        "precio": "0.82",
+        "precio": 0.82,
         "unidades": 1
     },
     {
         "producto": "Caraota Negra Diña Alicia",
-        "precio": "1.14",
+        "precio": 1.14,
         "unidades": 1
     },
     {
         "producto": "Trident",
-        "precio": "6.35",
+        "precio": 6.35,
         "unidades": 18
     },
     {
         "producto": "Leche San Simon 125gr",
-        "precio": "7.15",
+        "precio": 7.15,
         "unidades": 6
     },
     {
         "producto": "Cloro Jabonozo Aromancia",
-        "precio": "1.50",
+        "precio": 1.50,
         "unidades": 1
     },
     {
         "producto": "Leche Condensada Natulac 340gr",
-        "precio": "1.35",
+        "precio": 1.35,
         "unidades": 1
     },
     {
         "producto": "Compota natulac grande",
-        "precio": "1.10",
+        "precio": 1.10,
         "unidades": 1
     },
     {
         "producto": "Jugo Parmalac 900cc",
-        "precio": "1.45",
+        "precio": 1.45,
         "unidades": 1
     },
     {
         "producto": "Mega Aros 30gr",
-        "precio": "4.50",
+        "precio": 4.50,
         "unidades": 18
     },
     {
         "producto": "Gelatina de cabello E. Might Winner 100gr",
-        "precio": "1.20",
+        "precio": 1.20,
         "unidades": 1
     },
     {
         "producto": "Cafe Arauca 50gr",
-        "precio": "7.46",
+        "precio": 7.46,
         "unidades": 20
     },
     {
         "producto": "Cafe Arauca 100gr",
-        "precio": "22.38",
+        "precio": 22.38,
         "unidades": 30
     },
     {
         "producto": "Jugo Upaca 900ml",
-        "precio": "1.47",
+        "precio": 1.47,
         "unidades": 1
     },
     {
         "producto": "Toddy 100gr",
-        "precio": "7.30",
+        "precio": 7.30,
         "unidades": 6
     },
     {
         "producto": "Sun Bombonita 400ml",
-        "precio": "7.00",
+        "precio": 7.00,
         "unidades": 24
     },
     {
         "producto": "Hilo de coser",
-        "precio": "1.50",
+        "precio": 1.50,
         "unidades": 12
     },
     {
         "producto": "Chupis Bonice",
-        "precio": "1.30",
+        "precio": 1.30,
         "unidades": 20
     },
     {
         "producto": "Diablito 50gr",
-        "precio": "3.21",
+        "precio": 3.21,
         "unidades": 3
     },
     {
         "producto": "Mani Krak",
-        "precio": "3.45",
+        "precio": 3.45,
         "unidades": 12
     },
     {
         "producto": "Soda de lata",
-        "precio": "6.60",
+        "precio": 6.60,
         "unidades": 6
     },
     {
         "producto": "Energizante Spartan",
-        "precio": "2.85",
+        "precio": 2.85,
         "unidades": 6
     },
     {
         "producto": "Leche San Simon 400gr",
-        "precio": "22.25",
+        "precio": 22.25,
         "unidades": 6
     },
     {
         "producto": "Jugo Pulp Escolar",
-        "precio": "2.80",
+        "precio": 2.80,
         "unidades": 6
     },
     {
         "producto": "Leche Purissima 1Lt",
-        "precio": "11.05",
+        "precio": 11.05,
         "unidades": 6
     },
     {
         "producto": "Papitas para perro",
-        "precio": "1.80",
+        "precio": 1.80,
         "unidades": 2
     },
     {
         "producto": "Harina Trigo Doña Maria",
-        "precio": "10.50",
+        "precio": 10.50,
         "unidades": 6
     },
     {
         "producto": "Masa Facil",
-        "precio": "6.90",
+        "precio": 6.90,
         "unidades": 6
     },
     {
         "producto": "Dorito Grande",
-        "precio": "12.90",
+        "precio": 12.90,
         "unidades": 6
     },
     {
         "producto": "Desodorante SpeedStick tubo",
-        "precio": "5.50",
+        "precio": 5.50,
         "unidades": 6
     },
     {
         "producto": "Pasta Corta Capri 1Kg",
-        "precio": "1.20",
+        "precio": 1.20,
         "unidades": 1
     },
     {
         "producto": "Pasta larga Ronco 500gr",
-        "precio": "0.75",
+        "precio": 0.75,
         "unidades": 1
     },
     {
         "producto": "Pasta corta Ronco 500gr",
-        "precio": "0.72",
+        "precio": 0.72,
         "unidades": 1
     },
     {
         "producto": "Jugo Jucosa 1Lt",
-        "precio": "13.00",
+        "precio": 13.00,
         "unidades": 12
     },
     {
         "producto": "Pasta corta Mary 500gr",
-        "precio": "5.00",
+        "precio": 5.00,
         "unidades": 6
     },
     {
         "producto": "Pasta larga Mary 500gr",
-        "precio": "5.00",
+        "precio": 5.00,
         "unidades": 6
     },
     {
         "producto": "Silicon en barra grueso",
-        "precio": "10.00",
+        "precio": 10.00,
         "unidades": 33
     },
     {
         "producto": "Pasta larga Ronco 1kg",
-        "precio": "1.33",
+        "precio": 1.33,
         "unidades": 1
     },
     {
         "producto": "Pasta corta Ronco 1kg",
-        "precio": "1.30",
+        "precio": 1.30,
         "unidades": 1
     },
     {
         "producto": "Salsa pizza sobre bonare",
-        "precio": "4.50",
+        "precio": 4.50,
         "unidades": 6
     },
     {
         "producto": "Chicha San Simon 1Lt",
-        "precio": "11.20",
+        "precio": 11.20,
         "unidades": 6
     },
     {
         "producto": "Aceite soya Vatel 500ml",
-        "precio": "1.30",
+        "precio": 1.30,
         "unidades": 1
     },
     {
         "producto": "Aceite soya Vatel 250ml",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     },
     {
         "producto": "Cronch Flakes 300gr",
-        "precio": "2.10",
+        "precio": 2.10,
         "unidades": 1
     },
     {
         "producto": "Pasta larga Capri 500gr",
-        "precio": "0.75",
+        "precio": 0.75,
         "unidades": 1
     },
     {
         "producto": "Pasta corta Capri 500gr",
-        "precio": "0.75",
+        "precio": 0.75,
         "unidades": 1
     },
     {
         "producto": "Salsa de pizza Frescarini 490gr",
-        "precio": "24.90",
+        "precio": 24.90,
         "unidades": 12
     },
     {
         "producto": "Sardina Margarita",
-        "precio": "1.03",
+        "precio": 1.03,
         "unidades": 1
     },
     {
         "producto": "Halls",
-        "precio": "6.75",
+        "precio": 6.75,
         "unidades": 12
     },
     {
         "producto": "Pasta larga Fiorentina 1Kg",
-        "precio": "1.00",
+        "precio": 1.00,
         "unidades": 1
     },
     {
         "producto": "Piazza jirafa",
-        "precio": "2.00",
+        "precio": 2.00,
         "unidades": 24
     },
     {
         "producto": "Cartas de UNO",
-        "precio": "1.36",
+        "precio": 1.36,
         "unidades": 1
     },
     {
         "producto": "Sardina Eveba",
-        "precio": "0.70",
+        "precio": 0.70,
         "unidades": 1
     }
 ]
