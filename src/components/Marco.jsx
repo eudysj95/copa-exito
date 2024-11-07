@@ -11,7 +11,7 @@ export function Marco({title, metodo}) {
   const [listado, setListado] = useState([]);
   const [busquedaState, setBusquedaState] = useState("");
 
-  const tasa = 43;
+  const tasa = 44;
 
   useEffect(() => {
     conseguirListado();
@@ -83,20 +83,39 @@ export function Marco({title, metodo}) {
 
     <div className="flex flex-wrap mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
       {listado.map((item) => {
-        return (
-          <article
-            key={item.id}
-            className="w-56 h-40 text-veryDarkBlue mb-4 mr-4  border-2 shadow pt-1"
-          >
-            <h3 className="ml-3 mt-2 text-xl font-bold">{item.producto}</h3>
-            <p className="ml-3 mt-2">
-              Precio Dolares: {item.precio.toFixed(3)} $
-            </p>
-            <p className="ml-3 mt-2">
-              Precio Bolivares: {(item.precio * tasa).toFixed(2)} Bs
-            </p>
-          </article>
-        );
+        {if(metodo=="viveres"){
+          let precio = (item.precio / item.unidades)*1.20;
+          return (
+            <article
+              key={item.id}
+              className="w-56 h-40 text-veryDarkBlue mb-4 mr-4  border-2 shadow pt-1"
+            >
+              <h3 className="ml-3 mt-2 text-xl font-bold">{item.producto}</h3>
+              <p className="ml-3 mt-2">
+                Precio Dolares: {precio.toFixed(3)} $
+              </p>
+              <p className="ml-3 mt-2">
+                Precio Bolivares: {(precio * tasa).toFixed(3)} Bs
+              </p>
+            </article>
+          );
+        }else{
+          return (
+            <article
+              key={item.id}
+              className="w-56 h-40 text-veryDarkBlue mb-4 mr-4  border-2 shadow pt-1"
+            >
+              <h3 className="ml-3 mt-2 text-xl font-bold">{item.producto}</h3>
+              <p className="ml-3 mt-2">
+                Precio Dolares: {item.precio.toFixed(3)} $
+              </p>
+              <p className="ml-3 mt-2">
+                Precio Bolivares: {(item.precio * tasa).toFixed(3)} Bs
+              </p>
+            </article>
+          );
+        }}
+        
       })}
     </div>
   </div>)
