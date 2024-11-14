@@ -256,7 +256,7 @@
     },
     {
         "producto": "Chupetas Bon Bon Bum",
-        "precio": 1.60,
+        "precio": 2.1,
         "unidades": 24
     },
     {
@@ -291,7 +291,7 @@
     },
     {
         "producto": "Crema dental Colgate Triple Accion",
-        "precio": 0.90,
+        "precio": 0.93,
         "unidades": 1
     },
     {
@@ -556,13 +556,13 @@
     },
     {
         "producto": "Leche Entera Natulac 1Lt",
-        "precio": 18.10,
+        "precio": 18.75,
         "unidades": 12
     },
     {
-        "producto": "Leche Purelac 200gr",
-        "precio": 7.84,
-        "unidades": 6
+        "producto": "Leche Entera Natulac 500ml",
+        "precio": 11.51,
+        "unidades": 12
     },
     {
         "producto": "Levadura",
@@ -1000,8 +1000,8 @@
     },
     {
         "producto": "Suavitel de sobre",
-        "precio": 3.00,
-        "unidades": 6
+        "precio": 1.75,
+        "unidades": 3
     },
     {
         "producto": "Fabuloso de sobre",
@@ -1020,7 +1020,7 @@
     },
     {
         "producto": "Diablito 115gr",
-        "precio": 1.87,
+        "precio": 1.95,
         "unidades": 1
     },
     {
@@ -1044,8 +1044,8 @@
         "unidades": 1
     },
     {
-        "producto": "Crema de arroz Santoni 400gr",
-        "precio": 0.70,
+        "producto": "Crema de arroz Santoni 900gr",
+        "precio": 0.90,
         "unidades": 1
     },
     {
@@ -1235,7 +1235,7 @@
     },
     {
         "producto": "Crema dental Colgate",
-        "precio": 0.80,
+        "precio": 0.81,
         "unidades": 1
     },
     {
@@ -1735,12 +1735,12 @@
     },
     {
         "producto": "Aceite soya Vatel 500ml",
-        "precio": 1.30,
+        "precio": 1.40,
         "unidades": 1
     },
     {
         "producto": "Aceite soya Vatel 250ml",
-        "precio": 0.70,
+        "precio": 0.77,
         "unidades": 1
     },
     {
@@ -1760,7 +1760,7 @@
     },
     {
         "producto": "Salsa de pizza Frescarini 490gr",
-        "precio": 24.90,
+        "precio": 24.25,
         "unidades": 12
     },
     {
@@ -1780,7 +1780,7 @@
     },
     {
         "producto": "Piazza jirafa",
-        "precio": 2.00,
+        "precio": 2.45,
         "unidades": 24
     },
     {
