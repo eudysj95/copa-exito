@@ -36,12 +36,12 @@
     },
     {
         "producto": "Agua minalba 1.5lts",
-        "precio": 14.46,
+        "precio": 15.34,
         "unidades": 12
     },
     {
         "producto": "Agua minalba 355ml",
-        "precio": 12.14,
+        "precio": 13.02,
         "unidades": 24
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "producto": "Arroz Primor",
-        "precio": 1.35,
+        "precio": 1.25,
         "unidades": 1
     },
     {
@@ -90,8 +90,8 @@
         "unidades": 1
     },
     {
-        "producto": "Avena Quaker",
-        "precio": 1.59,
+        "producto": "Avena Quaker 200gr",
+        "precio": 0.68,
         "unidades": 1
     },
     {
@@ -591,7 +591,7 @@
     },
     {
         "producto": "Malta de botella",
-        "precio": 11.18,
+        "precio": 12.42,
         "unidades": 36
     },
     {
@@ -601,7 +601,7 @@
     },
     {
         "producto": "Malta desechable NR",
-        "precio": 6.33,
+        "precio": 6.71,
         "unidades": 12
     },
     {
@@ -626,7 +626,7 @@
     },
     {
         "producto": "Margarina Nelly Pequeña",
-        "precio": 1.01,
+        "precio": 1.04,
         "unidades": 1
     },
     {
@@ -636,7 +636,7 @@
     },
     {
         "producto": "Mayonesa Mediana",
-        "precio": 3.18,
+        "precio": 2.86,
         "unidades": 1
     },
     {
@@ -841,7 +841,7 @@
     },
     {
         "producto": "Salsa de tomate Pequeña",
-        "precio": 0.90,
+        "precio": 0.99,
         "unidades": 1
     },
     {
@@ -1040,7 +1040,7 @@
     },
     {
         "producto": "Toddy de pote 200gr",
-        "precio": 2.52,
+        "precio": 2.09,
         "unidades": 1
     },
     {
@@ -1335,7 +1335,7 @@
     },
     {
         "producto": "Aceite Mazeite",
-        "precio": 3.57,
+        "precio": 3.14,
         "unidades": 1
     },
     {
@@ -1599,9 +1599,9 @@
         "unidades": 1
     },
     {
-        "producto": "Toddy 100gr",
-        "precio": 7.30,
-        "unidades": 6
+        "producto": "Toddy de sobre 100gr",
+        "precio": 1.11,
+        "unidades": 1
     },
     {
         "producto": "Sun Bombonita 400ml",
