@@ -1,8 +1,8 @@
 [
     {
-        "producto": "Aceite 210ml",
-        "precio": 5.60,
-        "unidades": 10
+        "producto": "Aceite 220ml",
+        "precio": 5.33,
+        "unidades": 8
     },
     {
         "producto": "Aceite Coamo 900MLt",
@@ -10,9 +10,9 @@
         "unidades": 1
     },
     {
-        "producto": "Aceite Fritolisto 800ml",
-        "precio": 20.43,
-        "unidades": 12
+        "producto": "Aceite Marysol 900ml",
+        "precio": 9.6,
+        "unidades": 6
     },
     {
         "producto": "Aceite Imperial 450gr",
@@ -56,7 +56,7 @@
     },
     {
         "producto": "Arroz Agua Blanca",
-        "precio": 25.00,
+        "precio": 22.45,
         "unidades": 24
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "producto": "Cafe Amanecer 100gr",
-        "precio": 8.10,
+        "precio": 8.91,
         "unidades": 10
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "producto": "Huevos (Carton)",
-        "precio": 42.00,
+        "precio": 68.00,
         "unidades": 12
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "producto": "Detergente Alive 1kg",
-        "precio": 9.80,
+        "precio": 11.57,
         "unidades": 6
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "producto": "Detergente Kh 500gr",
-        "precio": 4.80,
+        "precio": 3.58,
         "unidades": 6
     },
     {
@@ -441,7 +441,7 @@
     },
     {
         "producto": "Harina Pan",
-        "precio": 19.25,
+        "precio": 18.00,
         "unidades": 20
     },
     {
@@ -461,7 +461,7 @@
     },
     {
         "producto": "Huevos (Unidad)",
-        "precio": 57.00,
+        "precio": 68.00,
         "unidades": 360
     },
     {
@@ -496,7 +496,7 @@
     },
     {
         "producto": "Jugo Justy 1Lt",
-        "precio": 8.80,
+        "precio": 8.90,
         "unidades": 12
     },
     {
@@ -954,8 +954,8 @@
         "unidades": 100
     },
     {
-        "producto": "Vasos #77",
-        "precio": 7.80,
+        "producto": "Vasos #67",
+        "precio": 1.90,
         "unidades": 6
     },
     {
@@ -964,8 +964,8 @@
         "unidades": 300
     },
     {
-        "producto": "Vasos #67",
-        "precio": 1.90,
+        "producto": "Vasos #127",
+        "precio": 2.11,
         "unidades": 50
     },
     {
@@ -1110,7 +1110,7 @@
     },
     {
         "producto": "Refresco Glup Cola 2lts",
-        "precio": 5.20,
+        "precio": 5.70,
         "unidades": 6
     },
     {
@@ -1590,8 +1590,8 @@
     },
     {
         "producto": "Cafe Arauca 50gr",
-        "precio": 7.46,
-        "unidades": 20
+        "precio": 4.00,
+        "unidades": 10
     },
     {
         "producto": "Cafe Arauca 100gr",
