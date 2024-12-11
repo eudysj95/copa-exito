@@ -95,8 +95,8 @@
         "unidades": 1
     },
     {
-        "producto": "Avena Soberana 200gr",
-        "precio": 2.82,
+        "producto": "Avena Pantera 400gr",
+        "precio": 7.63,
         "unidades": 6
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "producto": "Cafe Sello Rojo 50gr",
-        "precio": 5.30,
+        "precio": 4.50,
         "unidades": 10
     },
     {
@@ -256,7 +256,7 @@
     },
     {
         "producto": "Chupetas Bon Bon Bum",
-        "precio": 2.1,
+        "precio": 2.21,
         "unidades": 24
     },
     {
@@ -346,7 +346,7 @@
     },
     {
         "producto": "Dorito",
-        "precio": 8.50,
+        "precio": 9.66,
         "unidades": 12
     },
     {
@@ -401,7 +401,7 @@
     },
     {
         "producto": "Galleta Saltitacos",
-        "precio": 2.34,
+        "precio": 2.56,
         "unidades": 7
     },
     {
@@ -735,8 +735,8 @@
         "unidades": 6
     },
     {
-        "producto": "Pasta larga Banneti 500gr",
-        "precio": 3.12,
+        "producto": "Pasta larga Mutlu 1kg",
+        "precio": 6.6,
         "unidades": 6
     },
     {
@@ -746,7 +746,7 @@
     },
     {
         "producto": "Pepito Grande",
-        "precio": 5.70,
+        "precio": 6.00,
         "unidades": 6
     },
     {
@@ -971,6 +971,11 @@
     {
         "producto": "Velas",
         "precio": 2.15,
+        "unidades": 10
+    },
+    {
+        "producto": "Velas pequeñas",
+        "precio": 1.47,
         "unidades": 10
     },
     {
@@ -1459,8 +1464,8 @@
         "unidades": 1
     },
     {
-        "producto": "Chisquesitos",
-        "precio": 7.30,
+        "producto": "Chiskesitos",
+        "precio": 5.3,
         "unidades": 12
     },
     {
@@ -1555,7 +1560,7 @@
     },
     {
         "producto": "Leche San Simon 125gr",
-        "precio": 7.15,
+        "precio": 8.35,
         "unidades": 6
     },
     {
@@ -1645,7 +1650,7 @@
     },
     {
         "producto": "Leche San Simon 400gr",
-        "precio": 22.25,
+        "precio": 30.4,
         "unidades": 6
     },
     {
