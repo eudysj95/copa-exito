@@ -88,14 +88,14 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="w-56 h-40 text-veryDarkBlue mb-4 mr-4  border-2 shadow pt-1"
+              className="w-44 h-28 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1 rounded-2xl"
             >
-              <h3 className="ml-3 mt-2 text-xl font-bold">{item.producto}</h3>
-              <p className="ml-3 mt-2">
-                Precio Dolares: {precio.toFixed(3)} $
+              <h3 className="mt-2 text-base font-medium">{item.producto}</h3>
+              <p className="mt-2">
+               {precio.toFixed(3)} $
               </p>
-              <p className="ml-3 mt-2">
-                Precio Bolivares: {(precio * tasa).toFixed(3)} Bs
+              <p className="mt-2">
+               {(precio * tasa).toFixed(3)} Bs
               </p>
             </article>
           );
@@ -103,14 +103,14 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="w-56 h-40 text-veryDarkBlue mb-4 mr-4  border-2 shadow pt-1"
+              className="w-56 h-40 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1"
             >
-              <h3 className="ml-3 mt-2 text-xl font-bold">{item.producto}</h3>
-              <p className="ml-3 mt-2">
-                Precio Dolares: {item.precio.toFixed(3)} $
+              <h3 className="mt-2 text-base font-medium">{item.producto}</h3>
+              <p className="mt-2">
+               {item.precio.toFixed(3)} $
               </p>
-              <p className="ml-3 mt-2">
-                Precio Bolivares: {(item.precio * tasa).toFixed(3)} Bs
+              <p className="mt-2">
+               {(item.precio * tasa).toFixed(3)} Bs
               </p>
             </article>
           );
