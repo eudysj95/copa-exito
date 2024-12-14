@@ -103,7 +103,7 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="w-56 h-40 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1"
+              className="w-44 h-28 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1 rounded-2xl"
             >
               <h3 className="mt-2 text-base font-medium">{item.producto}</h3>
               <p className="mt-2">
