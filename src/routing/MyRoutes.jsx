@@ -8,7 +8,7 @@ import { PreciosMayor } from '../layout/PreciosMayor';
 
 export const MyRoutes = () => {
   return (
-    <div className='w-full bg-slate-600 p-10 h-full flex justify-center items-center'>
+    <div className='w-full bg-slate-600 px-10 h-full flex justify-center items-center'>
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<Inicio/>}/>
