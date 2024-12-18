@@ -56,17 +56,21 @@ export function Marco({title, metodo}) {
   };
 
     return(
-  <div className="flex flex-col items-center text-white">
-    <div className="w-full flex justify-around">
+  <div className="flex flex-col mt-4 items-center text-white">
+    <div className="w-full flex h-16 mb-4">
       <Link to="/inicio">
         <img
           src={back}
           alt="back"
-          className="w-12 bg-white rounded-[50%] mt-4"
+          className="w-8 bg-white rounded-[50%] mt-4"
         />
       </Link>
 
-      <div className="flex flex-col items-center">
+      <h2 className="leading-[64px] ml-3 text-lg">Inicio</h2>
+      
+    </div>
+
+    <div className="flex flex-col items-center">
         <h1 className="text-2xl font-bold mb-4">{title}</h1>
 
         <input
@@ -78,8 +82,6 @@ export function Marco({title, metodo}) {
         />
         {/* <input className="border-solid border-2 mb-4 p-2 w-28" type="submit" value="Buscar"/> */}
       </div>
-      <div></div>
-    </div>
 
     <div className="flex flex-wrap mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
       {listado.map((item) => {
