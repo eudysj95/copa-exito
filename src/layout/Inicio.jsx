@@ -10,7 +10,7 @@ export const Inicio = () => {
   return (
     <div className="w-screen text-center bg-[#4aa099]">
       <div className="flex flex-col items-center pt-4">
-        <img src={logo} alt="logo" className="w-20 mb-2" />
+        <img src={logo} alt="logo" className="w-20 mb-2 fill-white" />
         <h1 className="w-screen h-16 font-bold text-3xl text-white">Distribuidora Copa Éxito</h1>
         
       </div>
