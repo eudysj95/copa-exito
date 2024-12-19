@@ -62,7 +62,7 @@ export function Marco({title, metodo}) {
         <img
           src={back}
           alt="back"
-          className="w-8 bg-white rounded-[50%] mt-4"
+          className="w-8 bg-white rounded-[50%] mt-4 ml-2"
         />
       </Link>
 
@@ -90,13 +90,13 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="w-44 h-28 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1 rounded-2xl"
+              className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl"
             >
-              <h3 className="mt-2 text-base font-medium">{item.producto}</h3>
-              <p className="mt-2">
+              <h3 className="text-base font-medium leading-[64px]">{item.producto}</h3>
+              <p className="leading-[64px]">
                {precio.toFixed(3)} $
               </p>
-              <p className="mt-2">
+              <p className="leading-[64px]">
                {(precio * tasa).toFixed(3)} Bs
               </p>
             </article>
@@ -105,13 +105,13 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="w-44 h-28 text-veryDarkBlue mb-4 text-center border-2 shadow pt-1 rounded-2xl"
+              className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl"
             >
-              <h3 className="mt-2 text-base font-medium">{item.producto}</h3>
-              <p className="mt-2">
+              <h3 className="text-base font-medium leading-[64px]">{item.producto}</h3>
+              <p className="leading-[64px]">
                {item.precio.toFixed(3)} $
               </p>
-              <p className="mt-2">
+              <p className="leading-[64px]">
                {(item.precio * tasa).toFixed(3)} Bs
               </p>
             </article>
