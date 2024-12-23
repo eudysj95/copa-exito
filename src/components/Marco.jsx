@@ -11,7 +11,7 @@ export function Marco({title, metodo}) {
   const [listado, setListado] = useState([]);
   const [busquedaState, setBusquedaState] = useState("");
 
-  const tasa = 51;
+  const tasa = 52;
 
   useEffect(() => {
     conseguirListado();
