@@ -67,6 +67,8 @@ export function Marco({title, metodo}) {
       </Link>
 
       <h2 className="leading-[64px] ml-3 text-lg">Inicio</h2>
+
+      <h2 className="leading-[64px] ml-3 text-lg">Tasa = {tasa}</h2>
       
     </div>
 
