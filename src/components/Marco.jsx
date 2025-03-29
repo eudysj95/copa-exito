@@ -11,14 +11,14 @@ export function Marco({title, metodo}) {
   const [listado, setListado] = useState([]);
   const [busquedaState, setBusquedaState] = useState("");
 
-  const tasa = 60;
+  const tasa = 70;
 
   useEffect(() => {
     conseguirListado();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const conseguirListado = async () => {
+  const conseguirListado = () => {
     let data;
 
     if(metodo === "viveres"){
@@ -30,13 +30,16 @@ export function Marco({title, metodo}) {
         data = dataMayor;
     }
 
-    let objeto = await data.map((dato) => {
+    let objeto = data.map((dato) => {
       return {
         ...dato,
         id: data.indexOf(dato),
         precio: parseFloat(dato.precio),
       };
     });
+
+    /* objeto.sort((a, b) => a.producto.localeCompare(b.producto));
+    console.log(objeto) */
 
     setListado(objeto);
   };
@@ -88,7 +91,7 @@ export function Marco({title, metodo}) {
     <div className="flex flex-wrap mt-6 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 justify-center">
       {listado.map((item) => {
         {if(metodo=="viveres"){
-          let precio = (item.precio / item.unidades)*1.20;
+          let precio = item.precio; {/* (item.precio / item.unidades)*1.15 */};
           return (
             <article
               key={item.id}
