@@ -14,6 +14,7 @@ export function Marco({title, metodo}) {
   const tasa = 70;
 
   useEffect(() => {
+    
     conseguirListado();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
