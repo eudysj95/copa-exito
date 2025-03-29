@@ -444,6 +444,15 @@
         "id": 214
     },
     {
+<<<<<<< HEAD
+=======
+        "producto": "Gelatina every Night 500gr",
+        "precio": 3.63,
+        "unidades": 1,
+        "id": 213
+    },
+    {
+>>>>>>> 67b1e8987e729e677e2a62913dcf2ca21f79db7f
         "producto": "Harina Pan",
         "precio": 18,
         "unidades": 20,
@@ -510,6 +519,21 @@
         "id": 96
     },
     {
+<<<<<<< HEAD
+=======
+        "producto": "Jamon de pierna Alibal especial",
+        "precio": 42,
+        "unidades": 6,
+        "id": 98
+    },
+    {
+        "producto": "Jamon de pierna Belilla estandar",
+        "precio": 7.7,
+        "unidades": 1,
+        "id": 296
+    },
+    {
+>>>>>>> 67b1e8987e729e677e2a62913dcf2ca21f79db7f
         "producto": "Jugo Jucosa 1Lt",
         "precio": 1.44,
         "unidades": 1,
