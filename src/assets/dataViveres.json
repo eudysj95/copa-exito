@@ -408,12 +408,6 @@
         "id": 290
     },
     {
-        "producto": "Galleta Nucita",
-        "precio": 1.95,
-        "unidades": 12,
-        "id": 77
-    },
-    {
         "producto": "Galleta Oreo",
         "precio": 3.7,
         "unidades": 12,
@@ -436,24 +430,6 @@
         "precio": 1.2,
         "unidades": 9,
         "id": 81
-    },
-    {
-        "producto": "Galletas Oops",
-        "precio": 4.34,
-        "unidades": 24,
-        "id": 82
-    },
-    {
-        "producto": "Galletas Sorbetico",
-        "precio": 0.89,
-        "unidades": 4,
-        "id": 260
-    },
-    {
-        "producto": "Galletas Yupi",
-        "precio": 2.7,
-        "unidades": 6,
-        "id": 83
     },
     {
         "producto": "Gatorade",
@@ -486,54 +462,6 @@
         "id": 213
     },
     {
-        "producto": "Globos de agua Payaso",
-        "precio": 0.33,
-        "unidades": 1,
-        "id": 219
-    },
-    {
-        "producto": "Globos grandes",
-        "precio": 3,
-        "unidades": 38,
-        "id": 298
-    },
-    {
-        "producto": "Gomitas Play aros pequeñas",
-        "precio": 1.7,
-        "unidades": 50,
-        "id": 267
-    },
-    {
-        "producto": "Gomitas Play grandes",
-        "precio": 0.4,
-        "unidades": 1,
-        "id": 268
-    },
-    {
-        "producto": "Gomitas Play paquete",
-        "precio": 2.74,
-        "unidades": 6,
-        "id": 85
-    },
-    {
-        "producto": "Halls",
-        "precio": 6.75,
-        "unidades": 12,
-        "id": 356
-    },
-    {
-        "producto": "Harina de trigo",
-        "precio": 55,
-        "unidades": 50,
-        "id": 87
-    },
-    {
-        "producto": "Harina Kaly",
-        "precio": 15,
-        "unidades": 20,
-        "id": 220
-    },
-    {
         "producto": "Harina Pan",
         "precio": 18,
         "unidades": 20,
@@ -544,18 +472,6 @@
         "precio": 0.66,
         "unidades": 1,
         "id": 233
-    },
-    {
-        "producto": "Harina Trigo Doña Maria",
-        "precio": 10.5,
-        "unidades": 6,
-        "id": 334
-    },
-    {
-        "producto": "Hilo de coser",
-        "precio": 1.5,
-        "unidades": 12,
-        "id": 324
     },
     {
         "producto": "Hojas de Examen",
@@ -570,18 +486,6 @@
         "id": 239
     },
     {
-        "producto": "Hojillas Dorco (Cajita)",
-        "precio": 4,
-        "unidades": 12,
-        "id": 90
-    },
-    {
-        "producto": "Hojillas Dorco (Unidad)",
-        "precio": 4,
-        "unidades": 60,
-        "id": 91
-    },
-    {
         "producto": "Huevos (Carton)",
         "precio": 68,
         "unidades": 12,
@@ -592,12 +496,6 @@
         "precio": 68,
         "unidades": 360,
         "id": 92
-    },
-    {
-        "producto": "Ibuprofeno",
-        "precio": 0.33,
-        "unidades": 10,
-        "id": 263
     },
     {
         "producto": "Jabon azul las llaves 200gr",
@@ -624,24 +522,6 @@
         "id": 96
     },
     {
-        "producto": "Jabon en barra puro avena",
-        "precio": 0.49,
-        "unidades": 1,
-        "id": 301
-    },
-    {
-        "producto": "Jabon Supremo Multiuso",
-        "precio": 5,
-        "unidades": 8,
-        "id": 245
-    },
-    {
-        "producto": "Jacks Tortillas",
-        "precio": 10.1,
-        "unidades": 12,
-        "id": 97
-    },
-    {
         "producto": "Jamon de pierna Alibal especial",
         "precio": 42,
         "unidades": 6,
@@ -652,18 +532,6 @@
         "precio": 7.7,
         "unidades": 1,
         "id": 296
-    },
-    {
-        "producto": "Jeringas esteriles descartables",
-        "precio": 0.22,
-        "unidades": 1,
-        "id": 292
-    },
-    {
-        "producto": "Jugo de manzana de botella 1Lt",
-        "precio": 21.79,
-        "unidades": 12,
-        "id": 229
     },
     {
         "producto": "Jugo Jucosa 1Lt",
@@ -678,58 +546,16 @@
         "id": 99
     },
     {
-        "producto": "Jugo Natulac 1Lt",
-        "precio": 18,
-        "unidades": 12,
-        "id": 101
-    },
-    {
         "producto": "Jugo Natulac 330ml",
         "precio": 0.7,
         "unidades": 1,
         "id": 102
     },
     {
-        "producto": "Jugo Natulac 500ml",
-        "precio": 15.65,
-        "unidades": 12,
-        "id": 100
-    },
-    {
-        "producto": "Jugo Parmalac 900cc",
-        "precio": 1.45,
-        "unidades": 1,
-        "id": 316
-    },
-    {
         "producto": "Jugo Pulp Escolar",
         "precio": 2.8,
         "unidades": 6,
         "id": 331
-    },
-    {
-        "producto": "Jugo Upaca 900ml",
-        "precio": 1.47,
-        "unidades": 1,
-        "id": 321
-    },
-    {
-        "producto": "Jugo Yukery 1.5Lt",
-        "precio": 2.8,
-        "unidades": 1,
-        "id": 103
-    },
-    {
-        "producto": "Jugos Vivo 1Lt",
-        "precio": 15.26,
-        "unidades": 12,
-        "id": 244
-    },
-    {
-        "producto": "Kikitos rosca queso",
-        "precio": 1.3,
-        "unidades": 12,
-        "id": 243
     },
     {
         "producto": "Lapiz Mongol",
