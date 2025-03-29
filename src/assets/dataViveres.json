@@ -264,6 +264,12 @@
         "id": 45
     },
     {
+        "producto": "Cheesetris pequeños",
+        "precio": 0.68,
+        "unidades": 1,
+        "id": 606
+    },
+    {
         "producto": "Chiskesitos",
         "precio": 0.52,
         "unidades": 1,
@@ -370,6 +376,12 @@
         "precio": 0.64,
         "unidades": 1,
         "id": 71
+    },
+    {
+        "producto": "Flaquitos",
+        "precio": 0.5,
+        "unidades": 1,
+        "id": 607
     },
     {
         "producto": "Flips 28gr",
