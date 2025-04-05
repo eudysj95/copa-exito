@@ -96,14 +96,13 @@ export function Marco({title, metodo}) {
           return (
             <article
               key={item.id}
-              className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl"
-            >
+              className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl">
               <h3 className="text-base font-medium leading-[64px]">{item.producto}</h3>
               <p className="leading-[64px]">
-               {precio.toFixed(3)} $
+               {precio.toFixed(2)}$
               </p>
               <p className="leading-[64px]">
-               {(precio * tasa).toFixed(3)} Bs
+               {(precio * tasa).toFixed(2)}Bs
               </p>
             </article>
           );
@@ -115,10 +114,10 @@ export function Marco({title, metodo}) {
             >
               <h3 className="text-base font-medium leading-[64px]">{item.producto}</h3>
               <p className="leading-[64px]">
-               {item.precio.toFixed(3)} $
+               {item.precio.toFixed(2)}$
               </p>
               <p className="leading-[64px]">
-               {(item.precio * tasa).toFixed(3)} Bs
+               {(item.precio * tasa).toFixed(2)}Bs
               </p>
             </article>
           );
