@@ -97,7 +97,7 @@ export function Marco({title, metodo}) {
             <article
               key={item.id}
               className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl">
-              <h3 className="text-base font-medium leading-[64px] break-words leading-normal max-w-2/3">{item.producto}</h3>
+              <h3 className="text-base font-medium flex items-center justify-center break-words leading-normal max-w-2/3">{item.producto}</h3>
               <p className="leading-[64px]">
                {precio.toFixed(2)}$
               </p>
@@ -112,7 +112,7 @@ export function Marco({title, metodo}) {
               key={item.id}
               className="px-2 flex justify-between w-full h-16 text-veryDarkBlue mb-2 text-center border-2 shadow rounded-2xl"
             >
-              <h3 className="text-base font-medium leading-[64px] break-words leading-normal max-w-2/3">{item.producto}</h3>
+              <h3 className="text-base font-medium flex items-center justify-center break-words leading-normal max-w-2/3">{item.producto}</h3>
               <p className="leading-[64px]">
                {item.precio.toFixed(2)}$
               </p>
